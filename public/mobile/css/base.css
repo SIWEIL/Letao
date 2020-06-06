@@ -1,0 +1,35 @@
+/* 公共样式 */
+body ,.mui-content{
+    background-color: #fff;
+}
+.my-header {
+    background-color: #006699;
+}
+.my-header h1 {
+    color: #fff;
+}
+.my-header .mui-icon-search {
+    color: #fff;
+}
+
+.my-footer {
+    background-color: #006699;
+}
+.my-footer .mui-tab-item {
+    color: #fff;
+}
+.my-footer .mui-tab-item.mui-active {
+    color: darkorange;
+}
+
+.nav-links {
+    padding: 10px;
+}
+.nav-links a {
+    float: left;
+    width: 33.33%;
+}
+.nav-links a img {
+    width: 100%;
+    display: block;
+}
